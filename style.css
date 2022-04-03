@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav__item{
+    text-decoration: none;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.header__logo-site{
+    margin: auto;
+    display: flex;
+
+}
+.nav__link nav__link__active{
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    float: left;
+    position: absolute;
+    color: black;
+}
